@@ -5,7 +5,7 @@ import CourseInput from './components/CourseGoals/CourseInput/CourseInput';
 import './App.css';
 import NoGoals from './components/CourseGoals/CourseInput/NoGoals';
 import Card from './components/Card/Card';
-
+//TEST
 const App = () => {
   const [courseGoals, setCourseGoals] = useState([
     //{ text: 'Do all exercises!', id: 'g1' },
